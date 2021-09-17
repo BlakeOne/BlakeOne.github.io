@@ -28,7 +28,7 @@
      * @returns the block's comments
      */
     SquareBlock.GetComments = function () {
-        return "Outputs the square of the input";
+        return "Square the input value";
     };
 
     /**
