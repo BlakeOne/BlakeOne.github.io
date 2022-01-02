@@ -1,3 +1,3 @@
 # BlakeOne.github.io
 
-Scene / level editor for BabylonJS
+Just being used for testing purposes right now...
